@@ -31,4 +31,4 @@
  
 </div>
 
-<h2 align="left">Ola Grande parte do meu repositório esta privada pois são exercicios realizados na minha Piscine da 42_Lisboa, e para não prejudicar a experiência dos proximos piscineiro estão privados, boa sorte :) ....</h2>
+<h2 align="left">Ola Grande parte do meu repositório esta privada pois são exercicios realizados na minha Piscine da 42_Lisboa, e para não prejudicar a experiência dos proximos piscineiros resolvi manter privados, boa sorte :) ....</h2>
