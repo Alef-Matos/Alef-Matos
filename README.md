@@ -32,5 +32,5 @@
 </div>
 
 <h2 align="left">Ola Grande parte do meu repositório esta privada pois são exercicios realizados na minha Piscine da 42_Lisboa, e para não prejudicar a experiência dos proximos piscineiros resolvi manter privados, boa sorte :) ....</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Alef-Matos=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+  <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Matos&langs count=8"/>
