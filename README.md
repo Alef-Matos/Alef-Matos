@@ -33,4 +33,4 @@
 
 <h2 align="left">Ola Grande parte do meu repositório esta privada pois são exercicios realizados na minha Piscine da 42_Lisboa, e para não prejudicar a experiência dos proximos piscineiros resolvi manter privados, boa sorte :) ....</h2>
 
-  
+<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
