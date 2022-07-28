@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Alef-Matos">
   <img height="150m" src="https://github-readme-stats.vercel.app/api?username=Alef-Matos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Matos&layout=compact&langs_count=5&theme=merko"/>
+  <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Matos&layout=compact&theme=merko" />
 </div>
 <div style="display: inline_block"><br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
@@ -33,4 +33,4 @@
 
 <h2 align="left">Ola Grande parte do meu repositório esta privada pois são exercicios realizados na minha Piscine da 42_Lisboa, e para não prejudicar a experiência dos proximos piscineiros resolvi manter privados, boa sorte :) ....</h2>
 
-  <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Matos&layout=compact&theme=merko" />
+  
