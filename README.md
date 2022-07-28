@@ -1,7 +1,7 @@
 <h2 align="left">Ola 👋! Meu nome é Alef da Costa Matos , Estudante de Programação ....</h2>
 <div align="center">
   <a href="https://github.com/Alef-Matos">
-  <img height="180m" width="400" src="https://github-readme-stats.vercel.app/api?username=Alef-Matos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180m" width="350" src="https://github-readme-stats.vercel.app/api?username=Alef-Matos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180m" width="505" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Matos&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
