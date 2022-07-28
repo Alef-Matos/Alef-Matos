@@ -33,4 +33,4 @@
 
 <h2 align="left">Ola Grande parte do meu repositório esta privada pois são exercicios realizados na minha Piscine da 42_Lisboa, e para não prejudicar a experiência dos proximos piscineiros resolvi manter privados, boa sorte :) ....</h2>
 
-  <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Matos&layout=compact count=4"/>
+  <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Matos&layout=compact" />
