@@ -1,5 +1,5 @@
 <h2 align="left">Ola 👋! Meu nome é Alef da Costa Matos , Estudante de Programação ....</h2>
-![Header](https://github.com/Alef-Matos/Alef-Matos/alef.png)
+![Header](https://github.com/Alef-Matos/Alef-Matos/blob/main/alef.png)
 
 <div align="center">
   <a href="https://github.com/Alef-Matos">
