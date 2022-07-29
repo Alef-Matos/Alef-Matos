@@ -29,8 +29,10 @@
  
  ![Snake animation](https://github.com/Alef-Matos/Alef-Matos/blob/output/github-contribution-grid-snake.svg)
  
+---
+  
 </div>
-  ---
+
 
         Ola Grande parte do meu repositório esta privada pois são exercicios realizados na minha Piscine da 42_Lisboa.
 
