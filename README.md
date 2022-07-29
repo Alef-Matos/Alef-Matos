@@ -1,5 +1,5 @@
 <img src="https://github.com/Alef-Matos/Alef-Matos/blob/main/alef.png" />
-<h1 align="left">Hello! 👋welcome to my git-hub</h1>
+<h2 align="left">Hello! 👋welcome to my git-hub</h2>
 
 
 <div align="center">
