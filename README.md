@@ -1,5 +1,5 @@
 <img src="https://github.com/Alef-Matos/Alef-Matos/blob/main/alef.png" />
-<h2 align="left">Ola 👋! Meu nome é Alef da Costa Matos , Estudante de Programação ....</h2>
+<h2 align="center">Hello! 👋welcome to my git-hub</h2>
 
 
 <div align="center">
