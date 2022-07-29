@@ -14,7 +14,7 @@
   
 </div>
 
-  ##
+ ---
  
 <div> 
 <a href="https://discord.gg/S9A8HE6UsF" target="_blank">
