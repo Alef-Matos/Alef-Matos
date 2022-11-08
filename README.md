@@ -1,6 +1,6 @@
 <div align="center">
-<img width="600m" src="https://github.com/Alef-Matos/Alef-Matos/blob/main/alef.png" />
-<a href="https://github.com/JaeSeoKim/badge42"><img width="330m" src="https://badge42.vercel.app/api/v2/cla88p9vf00110fmd8v1byjg9/stats?cursusId=21&coalitionId=289" alt="almatos's 42 stats" /></a>
+<img width="500m" src="https://github.com/Alef-Matos/Alef-Matos/blob/main/alef.png" />
+<a href="https://github.com/JaeSeoKim/badge42"><img width="270m" src="https://badge42.vercel.app/api/v2/cla88p9vf00110fmd8v1byjg9/stats?cursusId=21&coalitionId=289" alt="almatos's 42 stats" /></a>
 </div>
 <h2 align="left">Hello! 👋welcome to my git-hub</h2>
 <br/>
