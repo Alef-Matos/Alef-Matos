@@ -38,4 +38,5 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=F7F7F7&background=71717100&vCenter=true&multiline=true&width=1000&height=60&lines=Ola+Grande+parte+do+meu+reposit%C3%B3rio+esta+privada+pois+s%C3%A3o+exercicios+realizados+na+minha+Piscine+da+42_Lisboa.+;E+para+n%C3%A3o+prejudicar+a+experi%C3%AAncia+dos+proximos+piscineiros+resolvi+manter+privados%2C+boa+sorte+%3A)+...." alt="Typing SVG" /></a>
 ---
+[![almatos's 42 stats](https://badge42.vercel.app/api/v2/cla88p9vf00110fmd8v1byjg9/stats?cursusId=21&coalitionId=112)](https://github.com/JaeSeoKim/badge42)
 
