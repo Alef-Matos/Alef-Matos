@@ -4,13 +4,11 @@
 </div>
 <h2 align="left">Hello! 👋welcome to my git-hub</h2>
 <br/>
-<br/>
 <div align="center">
   <a href="https://github.com/Alef-Matos">
   <img height="160m" src="https://github-readme-stats.vercel.app/api?username=Alef-Matos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Matos&layout=compact&theme=chartreuse-dark" />
 </div>
-<br/>
 <div style="display: inline_block"><br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
