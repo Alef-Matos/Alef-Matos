@@ -13,7 +13,6 @@
 <div style="display: inline_block"><br>
        <img src="https://skillicons.dev/icons?i=git,github,html,c,vim,java,linux,visualstudio,wordpress,eclipse,arduino" />
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/THkNWg5/alefmatos.png?width=676&height=676">
-  
 </div>
 
  ##
