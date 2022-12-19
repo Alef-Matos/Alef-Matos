@@ -9,13 +9,10 @@
   <img height="160m" src="https://github-readme-stats.vercel.app/api?username=Alef-Matos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Matos&layout=compact&theme=chartreuse-dark" />
 </div>
+  
 <div style="display: inline_block"><br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" width="42" alt="rust logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" width="42" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  /><img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/THkNWg5/alefmatos.png?width=676&height=676">
+       <img src="https://skillicons.dev/icons?i=git,github,html,c,vim,java,linux,visualstudio,wordpress,eclipse,arduino" />
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/THkNWg5/alefmatos.png?width=676&height=676">
   
 </div>
 
